@@ -2,9 +2,9 @@ MM出版のクエバンのpdfからAnkiに取り込むコードについて作�
 
 #ライブラリのインストール　及び　#グーグルドライブと連携は各自のGoogle Colabの環境で行ってください。（多分貼ってあるコード通りで行けるはず９
 
-pdfの読み込み→csvファイルの出力は
+
 ![image](https://github.com/user-attachments/assets/547db840-942f-4ea1-bace-d119287aa91e)
-左上のファイルのアップロードから、Anki化したいクエバンのpdfファイルをアップロードした後に、右クリックでpassをコピーした後
+pdfの読み込み→csvファイルの出力は、左上のファイルのアップロードから、Anki化したいクエバンのpdfファイルをアップロードした後に、右クリックでpassをコピーした後
 
 上部の　
 pdf_path = "/content/1A.pdf"と、
