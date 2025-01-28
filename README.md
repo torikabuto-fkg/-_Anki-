@@ -4,6 +4,9 @@ MM出版のクエバンのpdfからAnkiに取り込むコードについて作�
 
 
 ![image](https://github.com/user-attachments/assets/547db840-942f-4ea1-bace-d119287aa91e)
+
+
+
 pdfの読み込み→csvファイルの出力は、左上のファイルのアップロードから、Anki化したいクエバンのpdfファイルをアップロードした後に、右クリックでpassをコピーした後
 
 上部の　
