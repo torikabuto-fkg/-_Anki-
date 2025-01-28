@@ -12,7 +12,6 @@ pdfの読み込み→csvファイルの出力は、左上のファイルのア�
 上部の　
 pdf_path = "/content/1A.pdf"と、
 下部の
-# CSVファイルに保存
 output_file = os.path.join(folder_path, "1A.csv")
 
 に貼り付け及び書き出したい名前で書き直す。（1A.pdf,1A.csv　は例）
